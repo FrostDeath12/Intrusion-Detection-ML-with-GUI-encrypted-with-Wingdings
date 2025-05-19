@@ -44,6 +44,7 @@ This project is a machine learning-based intrusion and anomaly detection system 
    Run `scanner_gui.py`. Use default login:
    
    username: "admin"
+   
    password : "admin"
 
 
