@@ -42,11 +42,12 @@ This project is a machine learning-based intrusion and anomaly detection system 
 
 2. **Start the GUI**  
    Run `scanner_gui.py`. Use default login:
-username: "admin"
-password : "admin"
+   
+   username: "admin"
+   password : "admin"
 
 
-3. **Scan your system**  
+4. **Scan your system**  
 - Choose to proceed with the scan
 - Wait for completion
 - View results in encrypted Wingdings
